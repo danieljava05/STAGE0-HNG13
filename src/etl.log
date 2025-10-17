@@ -199,3 +199,53 @@
 2025-10-17 14:37:47,097 - ERROR - Unable to fetch Data
 2025-10-17 14:37:47,098 - INFO - Converted date to iso format
 2025-10-17 14:37:47,099 - INFO - Successfully returning the structured JSON Data
+2025-10-17 14:39:10,904 - INFO - HTTP Request: GET https://catfact.ninja/fact "HTTP/1.1 200 OK"
+2025-10-17 14:39:10,909 - INFO - Successfully fetch the data
+2025-10-17 14:39:10,912 - INFO - Converted date to iso format
+2025-10-17 14:39:10,917 - INFO - Successfully returning the structured JSON Data
+2025-10-17 14:39:13,769 - ERROR - Unable to fetch Data
+2025-10-17 14:39:13,770 - INFO - Converted date to iso format
+2025-10-17 14:39:13,771 - INFO - Successfully returning the structured JSON Data
+2025-10-17 14:39:16,867 - INFO - HTTP Request: GET https://catfact.ninja/fact "HTTP/1.1 200 OK"
+2025-10-17 14:39:16,870 - INFO - Successfully fetch the data
+2025-10-17 14:39:16,872 - INFO - Converted date to iso format
+2025-10-17 14:39:16,874 - INFO - Successfully returning the structured JSON Data
+2025-10-17 14:39:20,463 - INFO - HTTP Request: GET https://catfact.ninja/fact "HTTP/1.1 200 OK"
+2025-10-17 14:39:20,466 - INFO - Successfully fetch the data
+2025-10-17 14:39:20,468 - INFO - Converted date to iso format
+2025-10-17 14:39:20,469 - INFO - Successfully returning the structured JSON Data
+2025-10-17 14:39:23,808 - INFO - HTTP Request: GET https://catfact.ninja/fact "HTTP/1.1 200 OK"
+2025-10-17 14:39:23,812 - INFO - Successfully fetch the data
+2025-10-17 14:39:23,813 - INFO - Converted date to iso format
+2025-10-17 14:39:23,814 - INFO - Successfully returning the structured JSON Data
+2025-10-17 14:39:25,110 - WARNING - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: /api/v1/fact/me
+2025-10-17 14:39:26,594 - WARNING - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: /api/v1/fact/me
+2025-10-17 14:39:49,714 - WARNING - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: /api/v1/fact/me
+2025-10-17 14:39:50,995 - WARNING - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: /api/v1/fact/me
+2025-10-17 14:39:52,276 - WARNING - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: /api/v1/fact/me
+2025-10-17 14:39:53,550 - WARNING - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: /api/v1/fact/me
+2025-10-17 14:39:54,826 - WARNING - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: /api/v1/fact/me
+2025-10-17 14:39:56,137 - WARNING - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: /api/v1/fact/me
+2025-10-17 14:39:57,391 - WARNING - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: /api/v1/fact/me
+2025-10-17 14:41:55,879 - INFO - HTTP Request: GET https://catfact.ninja/fact "HTTP/1.1 200 OK"
+2025-10-17 14:41:55,882 - INFO - Successfully fetch the data
+2025-10-17 14:41:55,884 - INFO - Converted date to iso format
+2025-10-17 14:41:55,884 - INFO - Successfully returning the structured JSON Data
+2025-10-17 14:42:01,655 - INFO - HTTP Request: GET https://catfact.ninja/fact "HTTP/1.1 200 OK"
+2025-10-17 14:42:01,657 - INFO - Successfully fetch the data
+2025-10-17 14:42:01,659 - INFO - Converted date to iso format
+2025-10-17 14:42:01,660 - INFO - Successfully returning the structured JSON Data
+2025-10-17 14:42:06,760 - INFO - HTTP Request: GET https://catfact.ninja/fact "HTTP/1.1 200 OK"
+2025-10-17 14:42:06,765 - INFO - Successfully fetch the data
+2025-10-17 14:42:06,769 - INFO - Converted date to iso format
+2025-10-17 14:42:06,770 - INFO - Successfully returning the structured JSON Data
+2025-10-17 14:42:10,690 - INFO - HTTP Request: GET https://catfact.ninja/fact "HTTP/1.1 200 OK"
+2025-10-17 14:42:10,692 - INFO - Successfully fetch the data
+2025-10-17 14:42:10,694 - INFO - Converted date to iso format
+2025-10-17 14:42:10,698 - INFO - Successfully returning the structured JSON Data
+2025-10-17 14:42:17,278 - INFO - HTTP Request: GET https://catfact.ninja/fact "HTTP/1.1 200 OK"
+2025-10-17 14:42:17,281 - INFO - Successfully fetch the data
+2025-10-17 14:42:17,284 - INFO - Converted date to iso format
+2025-10-17 14:42:17,285 - INFO - Successfully returning the structured JSON Data
+2025-10-17 14:42:19,660 - WARNING - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: /api/v1/fact/me
+2025-10-17 14:42:23,465 - WARNING - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: /api/v1/fact/me
