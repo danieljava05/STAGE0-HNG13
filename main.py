@@ -144,4 +144,4 @@ async def getFact(request: Request):
     data = await fact.get_profile()
     return data
 
-app.include_router(factRouter,prefix=f"/api/{version}/fact")
+app.include_router(factRouter)
