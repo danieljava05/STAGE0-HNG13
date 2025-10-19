@@ -1,11 +1,11 @@
 from fastapi import FastAPI,Request
 from contextlib import asynccontextmanager
-from route.route import factRouter
+from src.route.route import factRouter
 from slowapi.middleware import SlowAPIMiddleware
 from fastapi.responses import JSONResponse
 from slowapi.errors import RateLimitExceeded
 from fastapi.middleware.cors import CORSMiddleware
-from limiter_setup import limiter as lt
+from src.limiter_setup import limiter as lt
 
 
 

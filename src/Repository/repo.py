@@ -1,6 +1,6 @@
 from datetime import datetime, timezone
 import httpx
-from Config import Config
+from src.Config import Config
 import logging as log
 
 log.basicConfig(

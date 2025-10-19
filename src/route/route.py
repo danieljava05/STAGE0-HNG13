@@ -1,9 +1,9 @@
 from fastapi import APIRouter,status,Request
-from Schema.schema import factResponse
-from Repository.repo import factRepo
+from src.Schema.schema import factResponse
+from src.Repository.repo import factRepo
 # rate limiting
 from fastapi.responses import JSONResponse
-from limiter_setup import limiter
+from src.limiter_setup import limiter
 # from starlette.requests import Request
 
 
