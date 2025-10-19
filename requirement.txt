@@ -1,6 +1,6 @@
+uvicorn
 pydantic
 httpx
 fastapi 
-uvicorn
 pydantic_settings
 slowapi
