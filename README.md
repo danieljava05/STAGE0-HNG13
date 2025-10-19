@@ -52,10 +52,10 @@ cd src
 pip install -r requirements.txt
 
 ## ⚙️ Environment Variables
-EMAIL=umuafemonidanie@gmail.com
-NAME=OLUWATOSIN DANIEL
-STACK=PYTHON/FASTAPI
-FACT_URL=https://catfact.ninja/fact
+###EMAIL=umuafemonidanie@gmail.com
+###NAME=OLUWATOSIN DANIEL
+###STACK=PYTHON/FASTAPI
+###FACT_URL=https://catfact.ninja/fact
 
 ##🧾 Requirements File (requirements.txt)
 pydantic
