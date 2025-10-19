@@ -75,6 +75,8 @@ http://127.0.0.1:8000/fact
 {
   "fact": "Bananas are berries, but strawberries aren't."
 }
+<img width="1294" height="587" alt="image" src="https://github.com/user-attachments/assets/07908216-5124-4bc5-829c-2883d6b31c02" />
+
 
 ##🧭 Project Structure
 📂 fact-api
