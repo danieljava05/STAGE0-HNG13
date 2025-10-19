@@ -52,10 +52,10 @@ cd src
 pip install -r requirements.txt
 
 ## ⚙️ Environment Variables
-###EMAIL=umuafemonidanie@gmail.com
-###NAME=OLUWATOSIN DANIEL
-###STACK=PYTHON/FASTAPI
-###FACT_URL=https://catfact.ninja/fact
+EMAIL=umuafemonidanie@gmail.com
+NAME=OLUWATOSIN DANIEL
+STACK=PYTHON/FASTAPI
+FACT_URL=https://catfact.ninja/fact
 
 ##🧾 Requirements File (requirements.txt)
 pydantic
@@ -66,14 +66,16 @@ pydantic_settings
 slowapi
 
 ##🧪 How to Run the Project Locally
-### 1️⃣ Start the FastAPI server
+##1️⃣ Start the FastAPI server
 uvicorn main:app --reload
-### 2️⃣ Open in your browser or Postman
+##2️⃣ Open in your browser or Postman
 http://127.0.0.1:8000/fact
-### ✅ Expected Response:
+
+## ✅ Expected Response:
 {
   "fact": "Bananas are berries, but strawberries aren't."
 }
+
 ##🧭 Project Structure
 📂 fact-api
  ┣ 📂 routes
@@ -91,21 +93,26 @@ http://127.0.0.1:8000/fact
 | Method | Endpoint | Description           |
 | ------ | -------- | --------------------- |
 | GET    | `/fact`  | Returns a random fact |
+
 ##🪵 Logging
 Basic logging is included to help with debugging.
+
 ##🧱 Deployment
 You can deploy this project to:
-### railway
+railway
+
 ##🧪 Testing the API with Curl
 curl http://127.0.0.1:8000/fact
+
 ##🛡️ .gitignore Example
 venv/
 __pycache__/
 .env
-##🤝 Contributing
 
+##🤝 Contributing
 Pull requests are welcome!
 For major changes, please open an issue first to discuss what you would like to change.
+
 ##🪪 License
 This project is licensed under the MIT License — you are free to use, modify, and distribute.
 
