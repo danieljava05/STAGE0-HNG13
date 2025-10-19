@@ -4,7 +4,7 @@ from slowapi.middleware import SlowAPIMiddleware
 from fastapi.responses import JSONResponse
 from slowapi.errors import RateLimitExceeded
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi import APIRouter,status,Request
+from fastapi import APIRouter,status
 from pydantic import BaseModel
 from datetime import datetime, timezone
 import httpx
