@@ -28,14 +28,15 @@ It’s built with clean architecture — separating routes, schemas, and reposit
 ## 📥 Installation & Setup Instructions
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/danieljava05/STAGE0-HNG13.git
 
 cd STAGE0-HNG13
 
 ---
-## Create and Activate a Virtual Environment
-```bash
+
+##Create and Activate a Virtual Environment
+
 python -m venv venv
 
 # On Windows
@@ -45,4 +46,15 @@ venv\Scripts\activate
 source venv/bin/activate
 
 ---
+## move inside the src directory
+cd src
 ## 3️⃣ Install Dependencies
+pip install -r requirements.txt
+
+## ⚙️ Environment Variables
+EMAIL=umuafemonidanie@gmail.com
+NAME=OLUWATOSIN DANIEL
+STACK=PYTHON/FASTAPI
+FACT_URL=https://catfact.ninja/fact
+
+##🧾 Requirements File (requirements.txt)
